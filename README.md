@@ -1,7 +1,3 @@
-# July-2025-Cohort-Hackathon-1-Portfolio-Challenge-
-
-# July-2025-Cohort-Hackathon-1-Portfolio-Challenge-
-
 # 🌟 Ominde's Personal Portfolio
 
 Welcome to my personal portfolio website! This project is a reflection of my journey as a developer—where I'm from, what I love, and what I've built. It’s designed to be responsive, clean, and interactive, showcasing my skills in web development and my passion for technology.
