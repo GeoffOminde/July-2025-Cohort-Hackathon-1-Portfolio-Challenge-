@@ -43,7 +43,3 @@ Want to collaborate, hire me, or just say hello? Use the contact form on the sit
 
 Thanks for visiting—let’s build something amazing together!
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 81460d7c69fb4ef9ddf330f6d82c1cea8ac102bd
